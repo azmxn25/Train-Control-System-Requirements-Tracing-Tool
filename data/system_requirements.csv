@@ -1,0 +1,4 @@
+ID,Description,ParentID
+SR001,Braking submodule shall monitor wheel slip,CR001
+SR002,Dispatch logic shall align with real-time signaling,CR002
+SR003,Emergency brake override function shall be active,CR001
